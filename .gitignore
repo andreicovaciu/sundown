@@ -1,0 +1,14 @@
+.DS_Store
+.codex/
+.build/
+dist/
+DerivedData/
+script/
+*.xcuserdata/
+*.xcuserstate
+.env
+.env.*
+*.p12
+*.cer
+*.mobileprovision
+*.provisionprofile

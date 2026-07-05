@@ -1,0 +1,39 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" rx="228" fill="url(#bg)"/>
+  <path d="M176 576C240 576 261 512 319 512C389 512 405 640 512 640C619 640 635 512 705 512C763 512 784 576 848 576" stroke="#93C5FD" stroke-width="52" stroke-linecap="round"/>
+  <path d="M176 576C240 576 261 512 319 512C389 512 405 640 512 640C619 640 635 512 705 512C763 512 784 576 848 576" stroke="url(#wave)" stroke-width="34" stroke-linecap="round"/>
+  <line x1="176" y1="576" x2="848" y2="576" stroke="#E0F2FE" stroke-opacity="0.72" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="512" cy="446" r="142" fill="url(#sun)"/>
+  <path d="M512 304C590.424 304 654 367.576 654 446C654 496.294 627.852 540.467 588.409 565.688C566.595 579.633 539.793 576 513.905 576H510.095C484.207 576 457.405 579.633 435.591 565.688C396.148 540.467 370 496.294 370 446C370 367.576 433.576 304 512 304Z" fill="url(#sunShade)"/>
+  <path d="M512 236V178" stroke="#FDBA74" stroke-width="34" stroke-linecap="round"/>
+  <path d="M512 714V772" stroke="#38BDF8" stroke-opacity="0.7" stroke-width="34" stroke-linecap="round"/>
+  <path d="M326 314L285 273" stroke="#FDBA74" stroke-width="34" stroke-linecap="round"/>
+  <path d="M698 314L739 273" stroke="#FDBA74" stroke-width="34" stroke-linecap="round"/>
+  <path d="M248 446H190" stroke="#FDBA74" stroke-width="34" stroke-linecap="round"/>
+  <path d="M834 446H776" stroke="#FDBA74" stroke-width="34" stroke-linecap="round"/>
+  <path d="M288 704L247 745" stroke="#38BDF8" stroke-opacity="0.55" stroke-width="34" stroke-linecap="round"/>
+  <path d="M736 704L777 745" stroke="#38BDF8" stroke-opacity="0.55" stroke-width="34" stroke-linecap="round"/>
+  <rect x="18" y="18" width="988" height="988" rx="210" stroke="white" stroke-opacity="0.12" stroke-width="36"/>
+  <defs>
+    <linearGradient id="bg" x1="168" y1="80" x2="856" y2="944" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#272066"/>
+      <stop offset="0.48" stop-color="#19172F"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="421" y1="327" x2="602" y2="585" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE066"/>
+      <stop offset="0.48" stop-color="#FF9F2F"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="sunShade" x1="512" y1="304" x2="512" y2="576" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE66D"/>
+      <stop offset="0.55" stop-color="#FF9F2F"/>
+      <stop offset="1" stop-color="#FB7185"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="176" y1="576" x2="848" y2="576" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#93C5FD"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+</svg>
